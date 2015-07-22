@@ -1,4 +1,4 @@
-# Coursera Course: Exploritory Data Analysis
+# Coursera Course: Exploratory Data Analysis
 ## Course Project 1: Plot 3
 ## Author: Jigme Norbu
 
